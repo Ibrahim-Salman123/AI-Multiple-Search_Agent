@@ -1,0 +1,8 @@
+import streamlit as st
+from langchain_community.tools import DuckDuckGoSearchRun
+from langchain_community.tools.youtube.search import YouTubeSearchTool
+import re
+from deep_translator import GoogleTranslator
+import tempfile
+from gtts import gTTS
+import os

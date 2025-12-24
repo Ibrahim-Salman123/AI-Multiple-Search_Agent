@@ -2,9 +2,11 @@ streamlit
 langchain
 langchain-community
 duckduckgo-search==5.3.0
+ddgs
 youtube-search-python
 youtube_search
 deep-translator
 gTTS
+
 
 

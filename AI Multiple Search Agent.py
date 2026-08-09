@@ -62,7 +62,7 @@ with st.sidebar:
                              'Turkish', 'Korean', 'German'])
 
     # --- Sidebar Image (Smaller Size) ---
-    st.image("pic.png", width=180)
+    st.image("Ibrahim_Salman.png", width=180)
 
 # --- Centered Input Section ---
 st.markdown("<div class='center-container'>", unsafe_allow_html=True)
